@@ -1,0 +1,8 @@
+package model;
+
+public enum ListStrategies {
+
+    FIRST_SPECIAL, SECOND_SPECIAL, THIRD_SPECIAL,
+    FIRST_GUARANTEE, ENTRANCE_GUARANTEE
+
+}
